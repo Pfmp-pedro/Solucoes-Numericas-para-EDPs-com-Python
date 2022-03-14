@@ -10,10 +10,6 @@ Este projeto foi concebido como uma expansão do trabalho realizado nas discipli
 
 ## Referências
 
--**ARAUJO, E.** Métodos Numéricos para Simulação na Engenharia. Disponível
-em: <https://www.esss.co/blog/metodos-numericos-para-simulacao-na-engenharia/>.
-Acesso em 27 out 2020.
-
 -**BURDEN, R.** Análise Numérica: 8.Ed. Boston: Cengage Learning, 2008.
 
 -**CHAPRA, S. C., CANALE, R. P.** Métodos Numéricos para Engenharia: 7 Ed. New
