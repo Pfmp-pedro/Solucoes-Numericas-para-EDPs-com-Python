@@ -1,0 +1,56 @@
+***********************************************************
+              Imagem salva:  Graficos Iterativo/n_70--limite_1.0
+         Dimensão da malha: 70 linhas/colunas
+   Limite superior do erro: 1.0 %
+                 Iterações: 164
+           Pontos iterados: 758336
+ Tempo de Iteração (clock): 4.1433 segundos 
+
+***********************************************************
+              Imagem salva:  Graficos Iterativo/n_70--limite_10.0
+         Dimensão da malha: 70 linhas/colunas
+   Limite superior do erro: 10.0 %
+                 Iterações: 53
+           Pontos iterados: 245072
+ Tempo de Iteração (clock): 1.4879 segundos 
+
+***********************************************************
+              Imagem salva:  Graficos Iterativo/n_70--limite_100.0
+         Dimensão da malha: 70 linhas/colunas
+   Limite superior do erro: 100.0 %
+                 Iterações: 1
+           Pontos iterados: 4624
+ Tempo de Iteração (clock): 0.015 segundos 
+
+***********************************************************
+              Imagem salva:  Graficos Iterativo/n_70--limite_0.1
+         Dimensão da malha: 70 linhas/colunas
+   Limite superior do erro: 0.1 %
+                 Iterações: 453
+           Pontos iterados: 2094672
+ Tempo de Iteração (clock): 10.9856 segundos 
+
+***********************************************************
+              Imagem salva:  Graficos Iterativo/n_70--limite_0.01
+         Dimensão da malha: 70 linhas/colunas
+   Limite superior do erro: 0.01 %
+                 Iterações: 805
+           Pontos iterados: 3722320
+ Tempo de Iteração (clock): 13.5606 segundos 
+
+***********************************************************
+              Imagem salva:  Graficos Iterativo/n_70--limite_0.001
+         Dimensão da malha: 70 linhas/colunas
+   Limite superior do erro: 0.001 %
+                 Iterações: 1172
+           Pontos iterados: 5419328
+ Tempo de Iteração (clock): 29.1178 segundos 
+
+***********************************************************
+              Imagem salva:  Graficos Iterativo/n_70--limite_1.0
+         Dimensão da malha: 70 linhas/colunas
+   Limite superior do erro: 1.0 %
+                 Iterações: 164
+           Pontos iterados: 758336
+ Tempo de Iteração (clock): 3.0401 segundos 
+
